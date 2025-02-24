@@ -1,0 +1,6 @@
+.classpath
+/log
+*.project
+/bin
+/build
+.settings
